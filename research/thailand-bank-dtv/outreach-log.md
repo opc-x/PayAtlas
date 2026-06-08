@@ -12,11 +12,12 @@
 | LH Bank 汇商银行 | 邮件 | callcenter@lhbank.co.th | **follow-up sent** | 暂无回复 |
 | Bangkok Bank 盘谷银行 | 邮件 | info@bangkokbank.com | **follow-up sent** | 暂无回复 |
 | UOB 大华泰国 | 邮件 | uobcallcentre@uob.co.th | **follow-up sent** | 暂无回复 |
-| KBank 开泰银行 | 官网表单 | — | pending | — |
-| SCB 暹罗商业 | 官网表单 | — | pending | — |
-| Krungsri 大城银行 | 官网表单 | — | pending | — |
-| ttb | 官网表单 | — | pending | — |
-| Krungthai 泰京银行 | 电话 | 0-2111-1111 | pending | — |
+| KBank 开泰银行 | 官网表单 | — | pending（无邮箱） | — |
+| SCB 暹罗商业 | 官网表单 | — | pending（无邮箱） | — |
+| Krungsri 大城银行 | 邮件 | callcenter@krungsri.com | **sent** | 等待回复 |
+| ttb | 官网表单/回电 | — | pending（无邮箱） | — |
+| Krungthai 泰京银行 | 电话 | 0-2111-1111 | 低优先级 | — |
+| 工银泰国 ICBC | 邮件 | info@th.icbc.com.cn | **sent** | 等待回复 |
 
 ---
 
@@ -90,3 +91,5 @@
 - [2026-06-08T11:40:38.894Z] ✅ CDP/Gmail **汇商银行** → callcenter@lhbank.co.th
 - [2026-06-08T11:40:46.870Z] ✅ CDP/Gmail **盘谷银行** → info@bangkokbank.com
 - [2026-06-08T11:40:54.791Z] ✅ CDP/Gmail **大华银行泰国** → uobcallcentre@uob.co.th
+- [2026-06-08T12:14:27.460Z] ✅ CDP/Gmail **工银泰国** → info@th.icbc.com.cn
+- [2026-06-08T12:14:35.376Z] ✅ CDP/Gmail **大城银行** → callcenter@krungsri.com

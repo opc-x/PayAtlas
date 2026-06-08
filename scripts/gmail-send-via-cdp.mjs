@@ -113,7 +113,10 @@ async function sendViaCompose(page, to, bankName) {
 
 async function main() {
   const banks = JSON.parse(readFileSync(banksPath, "utf8"));
-  const emailBanks = banks.filter((b) => b.channel === "email" && b.email);
+  const onlyPending = process.argv.includes("--pending-only");
+  const emailBanks = banks.filter(
+    (b) => b.channel === "email" && b.email && (!onlyPending || b.status === "pending"),
+  );
 
   const browser = await chromium.connectOverCDP(CDP_URL);
   const context = browser.contexts()[0] ?? (await browser.newContext());
