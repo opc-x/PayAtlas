@@ -2,6 +2,11 @@ node_modules/
 dist/
 .env
 .env.local
+.credentials/
+*.credentials.json
+research/thailand-bank-dtv/gmail-login-state.png
+research/thailand-bank-dtv/screenshots/
+.chrome-profiles/
 *.log
 .DS_Store
 .idea/
