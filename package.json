@@ -1,0 +1,29 @@
+{
+  "name": "payatlas",
+  "version": "0.1.0",
+  "description": "全球支付渠道调研 · 方案选型 · 通道打通",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "payments",
+    "psp",
+    "global-payments",
+    "payment-routing",
+    "fintech"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

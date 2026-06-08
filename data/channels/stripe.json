@@ -1,0 +1,12 @@
+{
+  "id": "stripe",
+  "name": "Stripe",
+  "type": "psp",
+  "regions": ["US", "EU", "UK", "SEA", "GLOBAL"],
+  "currencies": ["USD", "EUR", "GBP", "SGD", "JPY"],
+  "capabilities": ["card", "wallet", "bank_transfer"],
+  "businessTypes": ["ecommerce", "saas", "marketplace", "subscription"],
+  "settlementDays": 2,
+  "feeRange": "2.9% + $0.30 起",
+  "website": "https://stripe.com"
+}
