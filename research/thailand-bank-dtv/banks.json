@@ -9,8 +9,10 @@
     "chineseSupport": "LUMPINI OFFICE / ONE BANGKOK（可预约中文）",
     "officialDtvPolicy": "明确拒绝 DTV（官网 FAQ）",
     "contactUrl": "https://www.lhbank.co.th/zh-cn/branch-booking-page/",
-    "status": "sent",
-    "sentAt": "2026-06-08T11:40:38.893Z"
+    "status": "follow-up-sent",
+    "sentAt": "2026-06-08T11:40:38.893Z",
+    "followUpAt": "2026-06-08T12:00:00.000Z",
+    "replyStatus": "no-reply-yet"
   },
   {
     "id": "bangkok-bank",
@@ -36,8 +38,10 @@
     "chineseSupport": "在线 Chat Assist",
     "officialDtvPolicy": "需长期居留签证，DTV 未明确支持",
     "contactUrl": "https://www.uob.co.th/personal-en/transition-faq/foreigner.page",
-    "status": "sent",
-    "sentAt": "2026-06-08T11:40:54.791Z"
+    "status": "follow-up-sent",
+    "sentAt": "2026-06-08T11:40:54.791Z",
+    "followUpAt": "2026-06-08T12:00:00.000Z",
+    "replyStatus": "no-reply-yet"
   },
   {
     "id": "kasikorn",
