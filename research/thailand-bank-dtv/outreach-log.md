@@ -81,4 +81,6 @@
 
 ## Send Log
 
-- [2026-06-08] ⚠️ Cloud Agent 尝试 Gmail SMTP 发送失败：Google 要求**应用专用密码**（非登录密码）。需在本机 Antigravity 浏览器登录 Gmail 手动发送，或生成 App Password 后重跑 `scripts/send-bank-inquiry-emails.mjs`。
+- [2026-06-08] ⚠️ Gmail SMTP 失败：需应用专用密码。
+- [2026-06-08] ✅ Chrome CDP debug 已启动（`127.0.0.1:9222`，profile: `~/.chrome-profiles/thailand-bank-inquiry`）。
+- [2026-06-08] ⏸️ Gmail 登录卡在 **2-Step Verification**：请在 iPhone/iPad 点 Yes 并选择数字 **95**，完成后运行 `node scripts/gmail-send-via-cdp.mjs` 自动发 3 封邮件。

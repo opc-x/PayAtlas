@@ -21,7 +21,8 @@
 | `banks.json` | 银行清单、联系方式、发送状态 |
 | `email-template.md` | 统一咨询邮件模板 |
 | `outreach-log.md` | 发送记录与银行回复跟踪 |
-| `../../scripts/send-bank-inquiry-emails.mjs` | 批量发送脚本（Gmail SMTP） |
+| `../../scripts/send-bank-inquiry-emails.mjs` | 批量发送脚本（Gmail SMTP，需 App Password） |
+| `../../scripts/gmail-send-via-cdp.mjs` | 通过 Chrome CDP 在 Gmail UI 发信（推荐） |
 
 ## 发送邮件
 

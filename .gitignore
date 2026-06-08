@@ -4,6 +4,8 @@ dist/
 .env.local
 .credentials/
 *.credentials.json
+research/thailand-bank-dtv/gmail-login-state.png
+.chrome-profiles/
 *.log
 .DS_Store
 .idea/

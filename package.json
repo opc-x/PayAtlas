@@ -10,7 +10,9 @@
     "start": "node dist/index.js",
     "typecheck": "tsc --noEmit",
     "send-bank-inquiry": "node scripts/send-bank-inquiry-emails.mjs",
-    "send-bank-inquiry:dry-run": "node scripts/send-bank-inquiry-emails.mjs --dry-run"
+    "send-bank-inquiry:dry-run": "node scripts/send-bank-inquiry-emails.mjs --dry-run",
+    "send-bank-inquiry:cdp": "node scripts/gmail-send-via-cdp.mjs",
+    "send-bank-inquiry:cdp-dry-run": "node scripts/gmail-send-via-cdp.mjs --dry-run"
   },
   "keywords": [
     "payments",
@@ -26,6 +28,7 @@
   "devDependencies": {
     "@types/node": "^22.15.0",
     "nodemailer": "^7.0.3",
+    "playwright-core": "^1.52.0",
     "tsx": "^4.19.0",
     "typescript": "^5.8.0"
   }
