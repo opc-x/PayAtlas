@@ -1,0 +1,99 @@
+[
+  {
+    "id": "lh-bank",
+    "name": "LH Bank (Land and Houses Bank)",
+    "nameZh": "汇商银行",
+    "channel": "email",
+    "email": "callcenter@lhbank.co.th",
+    "phone": "1327",
+    "chineseSupport": "LUMPINI OFFICE / ONE BANGKOK（可预约中文）",
+    "officialDtvPolicy": "明确拒绝 DTV（官网 FAQ）",
+    "contactUrl": "https://www.lhbank.co.th/zh-cn/branch-booking-page/",
+    "status": "pending"
+  },
+  {
+    "id": "bangkok-bank",
+    "name": "Bangkok Bank",
+    "nameZh": "盘谷银行",
+    "channel": "email",
+    "email": "info@bangkokbank.com",
+    "phone": "1333 / +66-2-645-5555",
+    "chineseSupport": "华人事务专区",
+    "officialDtvPolicy": "2025 年起大幅收紧，DTV 通常被拒",
+    "contactUrl": "https://www.bangkokbank.com/en/Chinese-Section",
+    "status": "pending"
+  },
+  {
+    "id": "uob",
+    "name": "UOB Thailand",
+    "nameZh": "大华银行泰国",
+    "channel": "email",
+    "email": "uobcallcentre@uob.co.th",
+    "altEmail": "webmaster@uob.co.th",
+    "phone": "0-2285-1555",
+    "chineseSupport": "在线 Chat Assist",
+    "officialDtvPolicy": "需长期居留签证，DTV 未明确支持",
+    "contactUrl": "https://www.uob.co.th/personal-en/transition-faq/foreigner.page",
+    "status": "pending"
+  },
+  {
+    "id": "kasikorn",
+    "name": "Kasikorn Bank (KBank)",
+    "nameZh": "开泰银行",
+    "channel": "web-form",
+    "email": null,
+    "phone": "02-888-8888",
+    "chineseSupport": "有限（主要英文）",
+    "officialDtvPolicy": "要求长期签证，DTV 通常不接受",
+    "contactUrl": "https://www.kasikornbank.com/en/contact/pages/contact.aspx",
+    "status": "pending"
+  },
+  {
+    "id": "scb",
+    "name": "Siam Commercial Bank (SCB)",
+    "nameZh": "暹罗商业银行",
+    "channel": "web-form",
+    "email": null,
+    "phone": "02-777-7777",
+    "chineseSupport": "部分英文",
+    "officialDtvPolicy": "分行差异大，DTV 无官方支持",
+    "contactUrl": "https://www.scb.co.th/en/personal-banking/contact-scb",
+    "status": "pending"
+  },
+  {
+    "id": "krungsri",
+    "name": "Krungsri (Bank of Ayudhya)",
+    "nameZh": "大城银行",
+    "channel": "web-form",
+    "email": null,
+    "phone": "1572",
+    "chineseSupport": "有限",
+    "officialDtvPolicy": "2024 年起明确拒绝 DTV",
+    "contactUrl": "https://www.krungsri.com/en/support/contact-us",
+    "status": "pending"
+  },
+  {
+    "id": "ttb",
+    "name": "TMBThanachart (ttb)",
+    "nameZh": "泰军人泰银行",
+    "channel": "web-form",
+    "email": null,
+    "phone": "1428",
+    "chineseSupport": "有限",
+    "officialDtvPolicy": "需长期签证",
+    "contactUrl": "https://www.ttbbank.com/en/contact",
+    "status": "pending"
+  },
+  {
+    "id": "krungthai",
+    "name": "Krungthai Bank",
+    "nameZh": "泰京银行",
+    "channel": "phone",
+    "email": null,
+    "phone": "0-2111-1111",
+    "chineseSupport": "有限",
+    "officialDtvPolicy": "通常需工作证等",
+    "contactUrl": "https://krungthai.com/en/content/contact-us",
+    "status": "pending"
+  }
+]
